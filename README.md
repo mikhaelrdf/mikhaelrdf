@@ -1,7 +1,7 @@
 ### Olá! Sou Mikhael Rodrigues de freitas
 
-- 😔 Não estou trabalhando no momento...
-- 😁 Estudando: HTML5, CSS3, Javascript e React 😁
+-  Não estou trabalhando no momento...
+- Estudando: HTML5, CSS3, Javascript e React 
 
 <div align="center">
   <a href="https://github.com/mikhaelrdf">
